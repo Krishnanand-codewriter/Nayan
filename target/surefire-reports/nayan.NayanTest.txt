@@ -1,0 +1,20 @@
+-------------------------------------------------------------------------------
+Test set: nayan.NayanTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 29.43 sec <<< FAILURE!
+Then I should be navigated to the "PageTitle" page.(Scenario: Open browser)  Time elapsed: 0.007 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at cognizant.nayan.stepDefinitions.NayanStepDefinitions.I_should_be_navigated_to_the_page(NayanStepDefinitions.java:69)
+	at ✽.Then I should be navigated to the "PageTitle" page.(NayFeatures.feature:6)
+
+Scenario: Open browser  Time elapsed: 0.008 sec  <<< FAILURE!
+java.lang.AssertionError
+	at org.junit.Assert.fail(Assert.java:86)
+	at org.junit.Assert.assertTrue(Assert.java:41)
+	at org.junit.Assert.assertTrue(Assert.java:52)
+	at cognizant.nayan.stepDefinitions.NayanStepDefinitions.I_should_be_navigated_to_the_page(NayanStepDefinitions.java:69)
+	at ✽.Then I should be navigated to the "PageTitle" page.(NayFeatures.feature:6)
+
