@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.Properties;
 
 /**
- * @author 416474
+ * @author Krishnanand
  *
  */
 public final class NayanProperties{
