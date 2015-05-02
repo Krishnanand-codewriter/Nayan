@@ -13,7 +13,7 @@ import cognizant.nayan.commons.OSType;
 import cognizant.nayan.io.IO.Paths;
 
 /**
- * @author 416474
+ * @author Krishnanand
  *
  */
 public class ImageReader {
