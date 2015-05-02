@@ -17,7 +17,7 @@ import cognizant.nayan.io.IO.Paths;
 import cognizant.nayan.stepDefinitions.NayanStepDefinitions;
 
 /**
- * @author 416474
+ * @author Krishnanand
  *
  */
 public class ImageWriter{
