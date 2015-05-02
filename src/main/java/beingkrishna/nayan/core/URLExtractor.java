@@ -15,7 +15,7 @@ import cognizant.nayan.commons.NayanProperties;
 import cognizant.nayan.serialized.ImagesState;
 
 /**
- * @author 416474
+ * @author Krishnanand
  *
  */
 public class URLExtractor {
