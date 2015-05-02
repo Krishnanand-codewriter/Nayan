@@ -1,7 +1,7 @@
 package cognizant.nayan.commons;
 
 /**
- * @author 416474
+ * @author Krishnanand
  *
  */
 public  class OSType{
