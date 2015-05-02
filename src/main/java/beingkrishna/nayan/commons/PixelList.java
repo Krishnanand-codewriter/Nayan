@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author 416474
+ * @author Krishnanand
  *
  */
 public class PixelList{
