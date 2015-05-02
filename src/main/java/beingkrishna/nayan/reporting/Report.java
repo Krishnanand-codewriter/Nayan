@@ -1,7 +1,7 @@
 package cognizant.nayan.reporting;
 
 /**
- * @author 416474
+ * @author Krishnanand
  *
  */
 public interface Report {
