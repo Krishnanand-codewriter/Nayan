@@ -4,7 +4,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * @author 416474
+ * @author Krishnanand
  *
  */
 public class ConcurrentRunner {
